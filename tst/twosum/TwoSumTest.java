@@ -1,5 +1,5 @@
+package twosum;
 import static org.junit.Assert.*;
-import twosum.TwoSum;
 
 import java.util.Arrays;
 import org.junit.Test;
